@@ -1,11 +1,11 @@
 {
-    "name": "bagisto/laravel-ensignia",
+    "name": "kevinbharris/shop",
     "license": "MIT",
-    "description" : "Shop package for store front and customers",
+    "description" : "Extends the velocity theme for bagisto.",
     "authors": [
         {
-            "name": "Prashant Singh",
-            "email": "prashant.singh852@webkul.com"
+            "name": "Kevin B. Harris",
+            "email": "kevin.b.harris.2015@gmail.com"
         }
     ],
     "require": {},
